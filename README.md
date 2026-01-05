@@ -8,5 +8,5 @@ This repository sets up an experimental Linux GUI environment (XFCE + VNC + noVN
 
 ```bash
 git clone https://github.com/shubhambalwan/gui-in-codespace.git
-cd gui-in-codespace
+cd .devcontainer/
 bash setup.sh
